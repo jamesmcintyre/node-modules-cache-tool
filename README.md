@@ -7,7 +7,7 @@ Two bash functions you can put in your .bash_profile (or equivalent) to allow yo
 Just take the contents of bash_function.sh and paste it into your .bash_profile (or equivalent).
 
 ## Alternate Install
-Create a folder called "scripts" in your home directory (should be the same directory as your .bash_profile). Then create a file called "switch.sh" in it and past the contents of "bash_function.sh" into it. Then past this into your ".bash_profile":
+Create a folder called "scripts" in your home directory (should be the same directory as your .bash_profile). Then create a file called "switch.sh" in it and paste the contents of "bash_function.sh" into it. Then paste this into your ".bash_profile":
 
 ```
 # this pulls in script(s) from ~/scripts
